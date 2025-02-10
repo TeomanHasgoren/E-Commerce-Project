@@ -1,5 +1,3 @@
-3. E-Commerce-Project
-
 Description:
 This project contains the frontend design of a basic e-commerce website.
 
